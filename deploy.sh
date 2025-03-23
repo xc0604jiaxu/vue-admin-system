@@ -14,6 +14,6 @@ npm run build
 git add -A
 git commit -m 'update commit'
 
-# git remote add origin https://gitee.com/ahuntsun/e-sun-manage.git
+# git remote add origin https://github.com/xc0604jiaxu/vue-admin-system.git
 # 部署到 https://<USERNAME>.github.io/<REPO>
 git push -f 
